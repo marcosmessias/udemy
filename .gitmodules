@@ -1,0 +1,12 @@
+[submodule ".\\udemy-gatsby-netlify\\"]
+	path = .\\udemy-gatsby-netlify\\
+	url = https://github.com/marcosmessias/udemy.git
+[submodule ".\\udemy-react-native-clone-instagram\\"]
+	path = .\\udemy-react-native-clone-instagram\\
+	url = https://github.com/marcosmessias/udemy.git
+[submodule ".\\udemy-react-native-tasks-frontend\\"]
+	path = .\\udemy-react-native-tasks-frontend\\
+	url = https://github.com/marcosmessias/udemy.git
+[submodule ".\\udemy-react-native-tasks-backend\\"]
+	path = .\\udemy-react-native-tasks-backend\\
+	url = https://github.com/marcosmessias/udemy.git
